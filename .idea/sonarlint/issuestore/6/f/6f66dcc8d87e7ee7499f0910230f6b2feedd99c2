@@ -1,5 +1,7 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë²ÏÅûÿÿÿÿ8ã·ï¾ó1J$6925bfcc-ae82-42d7-ba82-63e8bc148cee
-m	java:S106"+Replace this use of System.out by a logger.(èÒÂŸ8ø·ï¾ó1J$48afcbe4-0752-456b-a09b-7c076ed2665b
-r	java:S106"+Replace this use of System.out by a logger.(²“Ìßøÿÿÿÿ8ù·ï¾ó1J$23b28a75-636a-47ab-a34a-59bb35b7b9a7
-r	java:S106"+Replace this use of System.out by a logger.(÷¶æÝýÿÿÿÿ8ú·ï¾ó1J$983325b8-892a-4c22-9393-3c9e998730e9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ë²ÏÅûÿÿÿÿ8ã·ï¾ó1J$e488c105-596b-47c5-8f50-02a393c9c061
+m	java:S106"+Replace this use of System.out by a logger.(èÒÂŸ8ø·ï¾ó1J$5351643c-7bad-4d00-9e12-969617d5b5c7
+r	java:S106"+Replace this use of System.out by a logger.(²“Ìßøÿÿÿÿ8ù·ï¾ó1J$4b140742-143b-4438-9144-cce386df4820
+r	java:S106"+Replace this use of System.out by a logger.(÷¶æÝýÿÿÿÿ8ú·ï¾ó1J$d3fd2a1d-2690-4a9a-bfa6-80a395e43467
+Š
+java:S1128"GRemove this unused import 'com.google.gson.annotations.SerializedName'.(äöúõ8¹ ¢Úó1J$28c6952a-0f8e-4f93-8d9b-c48600fc36d8

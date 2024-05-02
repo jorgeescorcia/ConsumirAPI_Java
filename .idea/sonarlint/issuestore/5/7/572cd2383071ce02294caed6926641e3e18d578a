@@ -1,12 +1,13 @@
 
-
-java:S20958"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ùß“ºÿÿÿÿÿ8ô¾ª¿ó1J$fed5f8ad-6f1a-41ef-b1b6-c76024649e44
-r	java:S106"+Replace this use of System.out by a logger.(–şºëüÿÿÿÿ8ÿ¾ª¿ó1J$ac2986f2-7a08-48db-b822-fa59f850fffc
-m	java:S106*"+Replace this use of System.out by a logger.(øŒ¼Æ8ƒ¿ª¿ó1J$f117beba-980b-40c8-91ee-24874b9b9ce6
-r	java:S1061"+Replace this use of System.out by a logger.(Æìã‰úÿÿÿÿ8‰¿ª¿ó1J$45ce6eb2-24ec-4a22-a0a4-10a20b5b8795
-r	java:S1065"+Replace this use of System.out by a logger.(¢Ó‰¬üÿÿÿÿ8‰¿ª¿ó1J$57fea3fa-3fc0-43bd-af2d-7459c2586951
-r	java:S106>"+Replace this use of System.out by a logger.(êË‹Ûøÿÿÿÿ8Œ¿ª¿ó1J$57b26022-c9aa-43f1-ba37-27425a65f324
-r	java:S106?"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¿ª¿ó1J$ce00a085-a3f2-4675-af41-adb9e7c7f987
-m	java:S106A"+Replace this use of System.out by a logger.(²Ôä8¿ª¿ó1J$51c30733-f31b-4d54-bd10-33cf8935ada5
-r	java:S106C"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¿ª¿ó1J$bffd93bd-fd18-43c2-8913-08d653440f75
-r	java:S106F"+Replace this use of System.out by a logger.(”ğ¥³ÿÿÿÿÿ8¿ª¿ó1J$41c202a8-43f0-463f-8768-bfd3e6a74aeb
+j
+java:S2095S"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(€‹Çìøÿÿÿÿ8…Ü¯Úó1
+r	java:S106"+Replace this use of System.out by a logger.(–şºëüÿÿÿÿ8Ÿê¦Úó1J$b78cc202-bf46-43f6-a8dc-f2a05b8493a7
+m	java:S1068"+Replace this use of System.out by a logger.(øŒ¼Æ8¤ê¦Úó1J$f5bf3f91-d83c-4496-8bd0-b9a13f990c80
+r	java:S106="+Replace this use of System.out by a logger.(Æìã‰úÿÿÿÿ8©ê¦Úó1J$2d4c5909-b995-4cd6-b79e-f7e554ad7ec2
+r	java:S106A"+Replace this use of System.out by a logger.(¢Ó‰¬üÿÿÿÿ8ªê¦Úó1J$729c16ee-3880-4e20-a502-e3ceda3de1c0
+r	java:S106H"+Replace this use of System.out by a logger.(êË‹Ûøÿÿÿÿ8ªê¦Úó1J$930611f3-5b5d-4a48-ae6f-3990bf2b0510
+r	java:S106I"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8«ê¦Úó1J$70415e83-5b11-44e4-a832-9f0b1852b269
+m	java:S106K"+Replace this use of System.out by a logger.(²Ôä8¬ê¦Úó1J$0f40ab93-4013-45dd-9359-e7f2710db1ad
+r	java:S106M"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¬ê¦Úó1J$302ef795-ec1d-4ef1-9df8-49ef524aeafc
+r	java:S106Q"+Replace this use of System.out by a logger.(«¸ßÅıÿÿÿÿ8­ê¦Úó1J$e6318c7e-5c3b-459d-959e-670d09404289
+r	java:S106W"+Replace this use of System.out by a logger.(”ğ¥³ÿÿÿÿÿ8°ê¦Úó1J$e4d9eec8-19a7-47eb-a63b-0133cb2231f2

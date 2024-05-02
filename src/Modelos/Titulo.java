@@ -4,9 +4,8 @@ import Excepciones.ErrorEnConversionDeDuracionException;
 import com.google.gson.annotations.SerializedName;
 
 public class Titulo {
-    @SerializedName("Title")
+
     private String nombre;
-    @SerializedName("Year")
     private int fechaLanzamiento;
     private int duracionEnMinutos;
     private boolean incluidoEnElPlan;
