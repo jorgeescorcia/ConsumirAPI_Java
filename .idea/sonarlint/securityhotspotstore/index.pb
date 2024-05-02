@@ -9,3 +9,9 @@ G
 src/Modelos/Titulo.java,6\f\6f66dcc8d87e7ee7499f0910230f6b2feedd99c2
 K
 src/Modelos/TituloOmdb.java,4\6\4667dbd5ac207d8bc758390d454dbfadfdc38c5b
+q
+Asrc/Modelos/Excepciones/ErrorEnConversionDeDuracionException.java,0\3\03b53747fdac29569606c152e511cbc163bb72b3
+i
+9src/Excepciones/ErrorEnConversionDeDuracionException.java,7\f\7f553f07036f62c7ca1f5639f0e8d4f98998b971
+=
+peliculas.txt,6\4\64594f00c90876639143a13dc9b38d08b5a50b24

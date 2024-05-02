@@ -1,5 +1,12 @@
 
-r	java:S106"+Replace this use of System.out by a logger.(–şºëüÿÿÿÿ8¤®’½ó1J$39976b47-8f0f-4fd8-8555-b92fdcb5a2ef
-m	java:S106&"+Replace this use of System.out by a logger.(øŒ¼Æ8±®’½ó1J$6ba173a7-0ef8-4aaa-89ae-5fa9c8629ae2
-r	java:S106-"+Replace this use of System.out by a logger.(Æìã‰úÿÿÿÿ8¼®’½ó1J$26e15b62-21a1-482a-b270-ed7e40b0bf75
-G	java:S1060"+Replace this use of System.out by a logger.(¸†¥š8ƒä½ó1
+
+java:S20958"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ùß“ºÿÿÿÿÿ8ô¾ª¿ó1J$fed5f8ad-6f1a-41ef-b1b6-c76024649e44
+r	java:S106"+Replace this use of System.out by a logger.(–şºëüÿÿÿÿ8ÿ¾ª¿ó1J$ac2986f2-7a08-48db-b822-fa59f850fffc
+m	java:S106*"+Replace this use of System.out by a logger.(øŒ¼Æ8ƒ¿ª¿ó1J$f117beba-980b-40c8-91ee-24874b9b9ce6
+r	java:S1061"+Replace this use of System.out by a logger.(Æìã‰úÿÿÿÿ8‰¿ª¿ó1J$45ce6eb2-24ec-4a22-a0a4-10a20b5b8795
+r	java:S1065"+Replace this use of System.out by a logger.(¢Ó‰¬üÿÿÿÿ8‰¿ª¿ó1J$57fea3fa-3fc0-43bd-af2d-7459c2586951
+r	java:S106>"+Replace this use of System.out by a logger.(êË‹Ûøÿÿÿÿ8Œ¿ª¿ó1J$57b26022-c9aa-43f1-ba37-27425a65f324
+r	java:S106?"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¿ª¿ó1J$ce00a085-a3f2-4675-af41-adb9e7c7f987
+m	java:S106A"+Replace this use of System.out by a logger.(²Ôä8¿ª¿ó1J$51c30733-f31b-4d54-bd10-33cf8935ada5
+r	java:S106C"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8¿ª¿ó1J$bffd93bd-fd18-43c2-8913-08d653440f75
+r	java:S106F"+Replace this use of System.out by a logger.(”ğ¥³ÿÿÿÿÿ8¿ª¿ó1J$41c202a8-43f0-463f-8768-bfd3e6a74aeb

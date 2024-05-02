@@ -1,5 +1,6 @@
 package Modelos;
 
+import Excepciones.ErrorEnConversionDeDuracionException;
 import com.google.gson.annotations.SerializedName;
 
 public class Titulo {
@@ -16,7 +17,10 @@ public class Titulo {
     public Titulo(TituloOmdb miTituloOmdb) {
         this.nombre = miTituloOmdb.title();
         this.fechaLanzamiento = Integer.valueOf(miTituloOmdb.year());
-        this.duracionEnMinutos = Integer.valueOf(miTituloOmdb.runtime().substring(0,2));
+        if (miTituloOmdb.runtime().contains("N/A")){
+            throw new ErrorEnConversionDeDuracionException("No pude convertir la duracion, porque contiene un N/A");
+        }
+        this.duracionEnMinutos = Integer.valueOf(miTituloOmdb.runtime().substring(0,3).replace(" ",""));
     }
 
 
